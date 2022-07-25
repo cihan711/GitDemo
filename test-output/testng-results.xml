@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-02T19:16:55 TRT" name="Suite" finished-at="2022-05-02T19:16:56 TRT" duration-ms="407">
+    <groups>
+    </groups>
+    <test started-at="2022-05-02T19:16:55 TRT" name="Test" finished-at="2022-05-02T19:16:56 TRT" duration-ms="407">
+      <class name="rahulacademy.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:rahulacademy.SeleniumTest@53ce1329]" started-at="2022-05-02T19:16:56 TRT" name="BrowserAutomation" finished-at="2022-05-02T19:16:56 TRT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementui()[pri:0, instance:rahulacademy.SeleniumTest@53ce1329]" started-at="2022-05-02T19:16:56 TRT" name="elementui" finished-at="2022-05-02T19:16:56 TRT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- rahulacademy.SeleniumTest -->
+      <class name="rahulacademy.AppiumTest">
+        <test-method signature="IosApp()[pri:0, instance:rahulacademy.AppiumTest@316bcf94]" started-at="2022-05-02T19:16:56 TRT" name="IosApp" finished-at="2022-05-02T19:16:56 TRT" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+        <test-method signature="NativeApp()[pri:0, instance:rahulacademy.AppiumTest@316bcf94]" started-at="2022-05-02T19:16:56 TRT" name="NativeApp" finished-at="2022-05-02T19:16:56 TRT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+      </class> <!-- rahulacademy.AppiumTest -->
+      <class name="rahulacademy.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:rahulacademy.RESTAPITest@306e95ec]" started-at="2022-05-02T19:16:56 TRT" name="deleteTwitter" finished-at="2022-05-02T19:16:56 TRT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:rahulacademy.RESTAPITest@306e95ec]" started-at="2022-05-02T19:16:56 TRT" name="postJira" finished-at="2022-05-02T19:16:56 TRT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- rahulacademy.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
