@@ -15,7 +15,7 @@ public class SeleniumTest {
 	public void elementui() {
 		System.out.println("elementui");
 		System.out.println("web");
-		
+		System.out.println("ATP");
 		
 	}
 	
