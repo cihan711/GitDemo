@@ -14,6 +14,8 @@ public class SeleniumTest {
 	@Test
 	public void elementui() {
 		System.out.println("elementui");
+		System.out.println("web");
+		
 		
 	}
 	
